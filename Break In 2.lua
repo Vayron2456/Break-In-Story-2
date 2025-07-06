@@ -6,7 +6,7 @@ if game.PlaceId ~= 13864667823 then
 	-- Free Gamepasses (LOBBY)
 		local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/RScriptz/RobloxScripts/main/OrionLibKeybind.lua')))()
 		local Window = OrionLib:MakeWindow({
-			Name = "Breaking Blitz",
+			Name = "WaterWare Hub - Break In 2",
 			HidePremium = false,
 			SaveConfig = true,
 			ConfigFolder = "OrionTest",
